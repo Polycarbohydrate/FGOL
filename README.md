@@ -1,2 +1,2 @@
-# ferris-s-game-of-life
+# Ferris's Game of Life
 Conway's Game of Life written in Rust
