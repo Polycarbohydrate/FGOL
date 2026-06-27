@@ -1,3 +1,3 @@
 # Ferris's Game of Life
 Conway's Game of Life written in Rust
-<img width="1080" height="1080" alt="Game of Life" src="https://github.com/user-attachments/assets/d0663b5f-8107-4d3d-87a3-694534cf487c" />
+<img width="1280" height="720" alt="Game of Life (2)" src="https://github.com/user-attachments/assets/a54afa12-e91c-4e51-b490-493b6a7fcda5" />
