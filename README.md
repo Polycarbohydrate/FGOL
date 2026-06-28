@@ -38,8 +38,9 @@ No AI was used in any part of the program. This includes all files under `src/` 
 
 # FAQs
 Q1: Why is the program a downloadable executable and not a web app or library/crate package?
+
 A1: I am using pure Rust which makes a web app much more time consuming and difficult then any other platform. I would need to learn `eframe/egui` as well as WASM conversion with `wasm-bindgen`. I am planning to create a web GUI site in the future.
 
 Q2: When running the executable, my antivirus displays a warning and will not run it. Is the program safe?
-A2: Their are many options to prove authenticity of the binaries. Read the release info to see that the binaries are produced from what is in the repository. If you truely do not want to run the provided binaries, you can follow alternative steps 1 and 2.
 
+A2: Their are many options to prove authenticity of the binaries. Read the release info to see that the binaries are produced from what is in the repository. If you truely do not want to run the provided binaries, you can follow alternative steps 1 and 2.
