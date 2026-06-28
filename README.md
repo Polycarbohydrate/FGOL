@@ -33,7 +33,8 @@ Alternative 2:
 Follow the instructions on the terminal to start your own simulation!
 
 # AI Usage
-No AI was used in any part of the program. This includes all files under `src/` (`main.rs`, `inputs.rs`, `cli_display.rs`, `core.rs`).
+No AI was used in any part of the program. This includes all files under `src/` (`main.rs`, `inputs.rs`, `cli_display.rs`, `core.rs`).  
+All algorithms and program design were made by me (Polycarbohydrate).
 
 # FAQs
 Q1: Why is the program a downloadable executable and not a web app or library/crate package?  
