@@ -4,6 +4,9 @@
 ---
 [Conway's Game of Life](https://wikipedia.org/wiki/Conway%27s_Game_of_Life) programmed in [Rust](https://rust-lang.org/).
 
+# Demo
+https://github.com/user-attachments/assets/754f1e42-7981-404b-893d-dd70ea5f8bad
+
 # Features
 - Core engine that produces the next generation of cells from the previous generation
 - CLI output for cross-platform usage
